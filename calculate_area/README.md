@@ -1,1 +1,4 @@
-![Screenshot from 2021-12-13 18-38-31](https://user-images.githubusercontent.com/69672043/145818223-914cc04c-75e3-414b-86a6-8e099104e510.png)
+Calculates Area and Perimeter of the detected object.
+
+
+![Screenshot from 2021-12-13 18-41-00](https://user-images.githubusercontent.com/69672043/145818615-eded6202-ca3b-450c-893e-8d001033722f.png)
